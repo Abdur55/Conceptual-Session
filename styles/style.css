@@ -32,17 +32,47 @@
     border: 1px solid #006A50;
     border-radius: 8px ;
     font-weight: 600;
-   padding: 15px 45px;
+    padding: 15px 30px;
+    cursor: pointer;
+
    
     
 }
 .navber{
     justify-content: space-between;
+    align-items: center;
      margin: 10px 160px ;
 }
 /* end-navber */
 
+/* banner-start */
+.banner-container{
+   background-color: #C6E4D6;
+   max-width: 1200px;
+   height: 560px;
+   margin: 0 auto;
+   margin-top: 50px;
+   border-radius: 24px;
+}
+.banner-content1{
+    
 
+}
+.banner-content1{
+    width: 550px;
+}
+.banner-content1 .banner-para{
+    font-size: 24px;
+    font-weight: 500;
+    color: #0E0E0E80;
+;
+}
+.banner-content1 .banner-para2{
+    font-weight: 700;
+    font-size: 56px;
+    margin-top: 0px;
+}
+/* banner-end */
 
 
 
